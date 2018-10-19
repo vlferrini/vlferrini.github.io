@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vicki Ferrini / Research Scientist"
+title                    : "Vicki Ferrini, Research Scientist"
 title_separator          : "-"
 name                     : &name "Vicki Ferrini"
 description              : &description "Research Scientist at Columbia University's Lamont-Doherty Earth Observatory | Seafloor Mapper and Geoinformaticist"
