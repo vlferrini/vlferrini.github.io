@@ -17,7 +17,7 @@ quantify the depth and characteristics of the seafloor complemented with visual 
 derived from photos and videos provide ground-truth of our acoustic observations.
 
 I've been at [LDEO](https://ldeo.columbia.edu) since 2006, and was previously at the 
-[Woods Hole Oceanographic Institution] (http://www.whoi.edu) where I served as the inaugural Data Manager for
+[Woods Hole Oceanographic Institution](http://www.whoi.edu) where I served as the inaugural Data Manager for
 the National Deep Submergence Facility.
 
 As a geoinformaticist, I work to ensure that marine geoscience data are documented, preserved and accessible.  I am especially
