@@ -1,5 +1,5 @@
 ---
-title: "The Nippon Foundation - GEBCO Seabed 2030 Project"
+title: "Nippon Foundation - GEBCO Seabed 2030 Project"
 excerpt: "Creating a complete global ocean map by the year 2030 <br/><img src='/images/GEBCO_puzzle.png'>"
 collection: portfolio
 ---
