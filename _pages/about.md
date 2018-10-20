@@ -8,18 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist who specializes in Seafloor Mapping) and hosted on GitHub pages. [LDEO](https://ldeo.columbia.edu)
-
-Seafloor Mapping
-======
-
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-How to edit your site's GitHub repository
+About me
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Less than 15% of the global ocean has been mapped with direct measurement. My research interests are focused seafloor bathymetry
+and understanding the processes that form and modify it.  This involves ocean mapping with a variety of sonar techniques to acoustically 
+quantify the depth and characteristics of the seafloor complemented with visual observations from photos and videos.  Visual observations
+derived from photos and videos provide ground-truth of our acoustic observations.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+I've been at [LDEO](https://ldeo.columbia.edu) since 2006, and was previously at the 
+[Woods Hole Oceanographic Institution] (http://www.whoi.edu) where I served as the inaugural Data Manager for
+the National Deep Submergence Facility.
+
+As a geoinformaticist, I work to ensure that marine geoscience data are documented, preserved and accessible.  I am especially
+interested in bridging the gap between data and people and helping to add value to earth science data
 
