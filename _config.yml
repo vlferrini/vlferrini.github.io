@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vicki Ferrini, Research Scientist"
 title_separator          : "-"
 name                     : &name "Vicki Ferrini"
-description              : &description "Research Scientist at Columbia University's Lamont-Doherty Earth Observatory | Seafloor Mapper and Geoinformaticist"
+description              : &description "Research Scientist at Columbia University's Lamont-Doherty Earth Observatory"
 url                      : https://vlferrini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vlferrini/vlferrini.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vicki Ferrini"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Seafloor Mapper and Geoinformaticist. Research Scientist at Columbia University's Lamont-Doherty Earth Observatory."
   location         : "New York City"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=W6x_UHQAAAAJ&hl=en"
