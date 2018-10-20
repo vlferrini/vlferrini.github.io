@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-About me
+
+Research Interests
 ------
 Less than 15% of the global ocean has been mapped with direct measurement. My research interests are focused seafloor bathymetry
 and understanding the processes that form and modify it.  This involves ocean mapping with a variety of sonar techniques to acoustically 
