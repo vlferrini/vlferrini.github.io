@@ -1,5 +1,5 @@
 ---
-title: "Multibeam Training Session: Data Management Talk"
+title: "Multibeam Data Management"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-10-19-INMARTECH
@@ -8,4 +8,4 @@ date: 2018-10-19
 location: "Woods Hole, MA"
 ---
 
-Three NSF-funded efforts collectively tackle the task of multibeam data management from acquisition to data archiving to synthsis.  All of these efforts share the common goal of high quality publicly available multibeam data.
+[Powerpoint Slide Deck](https://www.dropbox.com/s/7mmzfzvkhsn9z3p/2018-10_INMARTECH_Ferrini.pptx?dl=0)
