@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vicki Ferrini"
-  avatar           : "/images/headshot-vf.jpg"
+  avatar           : "headshot-vf.jpg"
   bio              : "Seafloor Mapper and Geoinformaticist. Research Scientist at Columbia University's Lamont-Doherty Earth Observatory."
   location         : "New York City"
   employer         :
