@@ -29,3 +29,7 @@ I've been at [LDEO](https://ldeo.columbia.edu) since 2006, and was previously at
 [Woods Hole Oceanographic Institution](http://www.whoi.edu) where I served as the inaugural Data Manager for
 the National Deep Submergence Facility.
 
+Sci Comm
+------
+Communicating with the public and within the science community is an important aspect of the modern 
+scientists's job.  It helps people understand our work and lets us share our passion.  
